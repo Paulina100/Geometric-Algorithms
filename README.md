@@ -10,5 +10,5 @@ Documentation and comments are in polish.
 [Project](/Projekt) - Delaunay Triangulation
 
 ## Authors
-Paulina Jędrychowska(Paulina100) \
-Final project was done in collaboration with Oskar Simon(ossimon)
+Paulina100 \
+Final project was done in collaboration with ossimon
